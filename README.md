@@ -1,4 +1,4 @@
 # fakeLeague
 
 # Team Members:
-  - Alan Fu
+  - Alan

@@ -2,4 +2,3 @@
 
 # Team Members:
   - Alan
-  - Eric
